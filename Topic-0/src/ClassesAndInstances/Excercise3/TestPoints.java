@@ -1,4 +1,4 @@
-package Excercise3;
+package ClassesAndInstances.Excercise3;
 
 /**
  *
@@ -26,6 +26,8 @@ public class TestPoints {
     MyPoint[] points = new MyPoint[10];
     for (int i = 0; i < points.length; i++) points[i] = new MyPoint(i + 1, i + 1);
     for (MyPoint p : points) System.out.print(p);
+    
+    System.out.println(p1.distance(p2) == p2.distance(p1));
   }
   
 }

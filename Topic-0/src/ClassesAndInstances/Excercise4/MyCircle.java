@@ -1,6 +1,6 @@
 package ClassesAndInstances.Excercise4;
 
-import Excercise3.MyPoint;
+import ClassesAndInstances.Excercise3.MyPoint;
 
 /**
  *
