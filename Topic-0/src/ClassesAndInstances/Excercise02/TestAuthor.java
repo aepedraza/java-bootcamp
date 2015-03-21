@@ -1,4 +1,4 @@
-package ClassesAndInstances.Excercise2;
+package ClassesAndInstances.Excercise02;
 
 /**
  *

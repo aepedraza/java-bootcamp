@@ -1,4 +1,4 @@
-package ClassesAndInstances.Excercise8;
+package ClassesAndInstances.Excercise08;
 
 import java.math.BigInteger;
 

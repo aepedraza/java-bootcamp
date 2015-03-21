@@ -1,4 +1,4 @@
-package ClassesAndInstances.Excercise1;
+package ClassesAndInstances.Excercise01;
 
 /**
  * @author apedraza

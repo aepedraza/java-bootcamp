@@ -1,4 +1,4 @@
-package ClassesAndInstances.Excercise6;
+package ClassesAndInstances.Excercise06;
 
 import java.util.Scanner;
 
